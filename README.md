@@ -1,0 +1,2 @@
+# HibernateHSQL
+ForMyTraining
